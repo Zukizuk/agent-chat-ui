@@ -11,8 +11,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Chronoa Chat",
-  description: "Chronoa Chat UX by LangChain",
+  title: "Chrono Chat",
+  description: "Chrono Chat UX by LangChain",
 };
 
 export default function RootLayout({
